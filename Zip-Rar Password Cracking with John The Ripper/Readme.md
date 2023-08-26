@@ -82,8 +82,11 @@ When the john stops you will be able to see the password of the file (``CSF446``
 Now you can use that password to open the encrypted file.
 
 <img src="https://github.com/mohitpanthri/Ethical-Hacking/assets/99413629/9da792f3-5b30-4c00-8f1d-a0e85eff27ae" alt="image" width="500"/>
+<br>
 <img src="https://github.com/mohitpanthri/Ethical-Hacking/assets/99413629/b551a907-d128-47e7-8d43-eb3759bf3faa" alt="image" width="500"/>
+
 <img src="https://github.com/mohitpanthri/Ethical-Hacking/assets/99413629/7b115406-2525-40d3-bcf7-b937bc4cd2d2" alt="image" width="500"/>
+
 <img src="https://github.com/mohitpanthri/Ethical-Hacking/assets/99413629/66a93da8-e0a1-420f-b01f-a33068f7a61d" alt="image" width="500"/>
 
 <br>
